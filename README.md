@@ -1,4 +1,4 @@
-# Image to text recognition
+# Image to Text Recognition
 
 This repository contain some simple code to extract printed text from a picture using the package pytesseract. 
 
